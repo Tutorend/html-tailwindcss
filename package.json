@@ -1,0 +1,14 @@
+{
+  "name": "html-tailwindcss",
+  "version": "1.0.0",
+  "description": "this is template for quickly using tailwind css with vanilla html js project created by tutorend.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
