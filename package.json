@@ -4,10 +4,11 @@
   "description": "this is template for quickly using tailwind css with vanilla html js project created by tutorend.com",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-css": "npx tailwindcss -i ./src/input-style.css -o ./public/style.css --watch"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "tutorend.com",
+  "license": "GNU Lesser General Public License (LGPL)",
   "devDependencies": {
     "tailwindcss": "^3.3.1"
   }
